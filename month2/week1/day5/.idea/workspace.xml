@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1028b69-f087-4647-a641-d0b85cbd2c37" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../day1/src/main/java/com/test/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter-demo/src/main/java/com/example/hello/demo/HelloSpringBootStarterDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter-demo/src/main/java/com/example/hello/demo/config/CustomHelloConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter-demo/src/main/java/com/example/hello/demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter/src/main/java/com/example/hello/config/HelloAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter/src/main/java/com/example/hello/config/HelloProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/hello-spring-boot-starter/src/main/java/com/example/hello/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/java/com/jyc/iot/config/MqttAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/java/com/jyc/iot/core/MqttClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/java/com/jyc/iot/iotmqttspringbootstarter/IotMqttSpringBootStarterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/java/com/jyc/iot/properties/MqttProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/iot-starter-parent/iot-mqtt-starter-demo/src/main/java/com/jyc/iot/MqttTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/controller/IotBusinessController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/iot-starter-parent/iot-mqtt-spring-boot-starter/src/main/resources/META-INF/spring/factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/controller/ConcurrentTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/service/DeviceConnectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/service/LockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/service/SynchronizedService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iot-starter-parent/iot-business-demo/src/main/java/com/jyc/iot/service/UnSafeCountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/src/GraduateStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day1/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/src/MyHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/src/Array_Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/src/周总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day13/第2周 集合核心知识点+数组解题技巧总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/PersonFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/SingletonHungry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/SingletonLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/TestBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/TestDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/TestFruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/TestProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/src/EmergeListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/src/ReverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/src/TestOverride.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day3/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day5/面向对象 &amp; 设计模式 核心知识点笔记.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/src/deleteDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/src/getIntersectionNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/src/hasCycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day6/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/src/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/src/MyClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/src/TestJVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/Java提升计划·第3周（JVM核心基础）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day2/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/src/GCAlgorithmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/src/GarbageJudgeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/src/CMSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/src/ParallelGCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/src/SerialGCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/src/HeapOOMTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day6/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/GitHub-JVM_README.md (1).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day7/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/src/CallableCreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/src/RunnableCreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/src/ThreadCreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day1/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/src/DaemonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/src/JoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/src/SleepDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/src/YieldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day2/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/src/SafeTicketByBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/src/SafeTicketByMethon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/src/SafeTicketByStaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day3/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/src/SafeTicketByReentrantLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/src/UnsafeTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day4/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/src/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/src/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/src/Warehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day5/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/src/AlternatePrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/src/BankTransfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/src/SafeCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day6/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week4/day7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/Java提升计划·第4周（并发编程）总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week4/day7/src/main/java/com/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Bo3bSYMUPWtdPegxWsmFWszBOe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.IotBusinessDemoApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jyc/IdeaProjects/learn/month2/week1/day5",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="IotBusinessDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="iot-business-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jyc.iot.IotBusinessDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jyc.iot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IotBusinessDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b1028b69-f087-4647-a641-d0b85cbd2c37" name="更改" comment="" />
+      <created>1775141666598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775141666598</updated>
+    </task>
+    <servers />
+  </component>
+</project>
